@@ -1,0 +1,2 @@
+## Use Case Diagram
+The Use Case Diagram offers a high-level overview of how users interact with the system. It highlights the main actors — Guest, Host, and Admin — and outlines the key functionalities each is involved in, such as registration, property management, booking, and payments. This visual representation helps both technical and non-technical audiences understand how the system behaves and how users engage with it. It also supports feature planning and ensures that all essential user interactions are accounted for during development.
